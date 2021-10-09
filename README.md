@@ -1,2 +1,2 @@
-# packman
-Packman game in HTML5 with online scoreboard.
+# pacman
+Pacman game in HTML5 with online scoreboard.
